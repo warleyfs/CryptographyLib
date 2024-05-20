@@ -1,0 +1,10 @@
+D:\Source\Estudos\Pocs\cryptography-lib\CryptographyLib\CryptographyLib\bin\Debug\netstandard2.0\CryptographyLib.deps.json
+D:\Source\Estudos\Pocs\cryptography-lib\CryptographyLib\CryptographyLib\bin\Debug\netstandard2.0\CryptographyLib.dll
+D:\Source\Estudos\Pocs\cryptography-lib\CryptographyLib\CryptographyLib\bin\Debug\netstandard2.0\CryptographyLib.pdb
+D:\Source\Estudos\Pocs\cryptography-lib\CryptographyLib\CryptographyLib\obj\Debug\netstandard2.0\CryptographyLib.csproj.AssemblyReference.cache
+D:\Source\Estudos\Pocs\cryptography-lib\CryptographyLib\CryptographyLib\obj\Debug\netstandard2.0\CryptographyLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\Estudos\Pocs\cryptography-lib\CryptographyLib\CryptographyLib\obj\Debug\netstandard2.0\CryptographyLib.AssemblyInfoInputs.cache
+D:\Source\Estudos\Pocs\cryptography-lib\CryptographyLib\CryptographyLib\obj\Debug\netstandard2.0\CryptographyLib.AssemblyInfo.cs
+D:\Source\Estudos\Pocs\cryptography-lib\CryptographyLib\CryptographyLib\obj\Debug\netstandard2.0\CryptographyLib.csproj.CoreCompileInputs.cache
+D:\Source\Estudos\Pocs\cryptography-lib\CryptographyLib\CryptographyLib\obj\Debug\netstandard2.0\CryptographyLib.dll
+D:\Source\Estudos\Pocs\cryptography-lib\CryptographyLib\CryptographyLib\obj\Debug\netstandard2.0\CryptographyLib.pdb

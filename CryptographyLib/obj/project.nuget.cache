@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "6To8rhhfRudzUMFciCIKjWxHah8abitcnDD00uDBFZedP+qhC/fWJHWE+2Ei2sGyGcxc44MjQ7Xi2nzTwcUWJw==",
+  "success": true,
+  "projectFilePath": "D:\\Source\\Estudos\\Pocs\\CryptographyLib\\CryptographyLib\\CryptographyLib.csproj",
+  "expectedPackageFiles": [
+    "D:\\Users\\warle\\.nuget\\packages\\awssdk.core\\3.7.304.3\\awssdk.core.3.7.304.3.nupkg.sha512",
+    "D:\\Users\\warle\\.nuget\\packages\\awssdk.keymanagementservice\\3.7.302.19\\awssdk.keymanagementservice.3.7.302.19.nupkg.sha512",
+    "D:\\Users\\warle\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "D:\\Users\\warle\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "D:\\Users\\warle\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "D:\\Users\\warle\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "D:\\Users\\warle\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "D:\\Users\\warle\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "x5kyj9EIWRONwD6Fu54TsdTRLHuPp8atf73xoU/oVXw=",
+  "Source": "CryptographySampleApi",
+  "BasePath": "_content/CryptographySampleApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
