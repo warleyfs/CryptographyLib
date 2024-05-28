@@ -1,10 +1,11 @@
-﻿using CryptographyLib.Models;
+﻿using CryptographyLib.Models.MSCryptographyModel;
 using System.Threading.Tasks;
 
 namespace CryptographyLib.Services.Contracts
 {
     public interface IAsymmetricEncryptionService : IEncryptionService
     {
-        Task<DataKeyPair> GenerateDataKeyPairAsync(string keyId);
+        Task<AsymmetricEncryptionResponse> EncryptAsync(AsymmetricEncryptionRequest request);
+        Task<AsymmetricDecryptionResponse> DecryptAsync(AsymmetricDecryptionRequest request);
     }
 }

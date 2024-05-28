@@ -1,19 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "ddNYAYHsDJRf4aTvwzf8xqHlOh4+QDFSt8e47S3lPtZVJGqzizouIGc/vghxnGChVMrVV2gMQ6Yx/j5X9KUN+g==",
+  "dgSpecHash": "1JpxkH3QRHtgDBQbLdNL0pM6Znb5N4kTsYk7RVGNQ2EDhv0YhXSc5KyxuWHcnbWlClj5UkUSavQm9jaEw9RAsw==",
   "success": true,
-  "projectFilePath": "D:\\Source\\Estudos\\Pocs\\CryptographyLib\\CryptographySampleApi\\CryptographySampleApi.csproj",
+  "projectFilePath": "/Users/warley/Git/Pocs/CryptographyLib/CryptographySampleApi/CryptographySampleApi.csproj",
   "expectedPackageFiles": [
-    "D:\\Users\\warle\\.nuget\\packages\\awssdk.core\\3.7.304.3\\awssdk.core.3.7.304.3.nupkg.sha512",
-    "D:\\Users\\warle\\.nuget\\packages\\awssdk.keymanagementservice\\3.7.302.19\\awssdk.keymanagementservice.3.7.302.19.nupkg.sha512",
-    "D:\\Users\\warle\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.19\\microsoft.aspnetcore.openapi.7.0.19.nupkg.sha512",
-    "D:\\Users\\warle\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
-    "D:\\Users\\warle\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
-    "D:\\Users\\warle\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
-    "D:\\Users\\warle\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
-    "D:\\Users\\warle\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
-    "D:\\Users\\warle\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
-    "D:\\Users\\warle\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+    "/Users/warley/.nuget/packages/awssdk.core/3.7.304.3/awssdk.core.3.7.304.3.nupkg.sha512",
+    "/Users/warley/.nuget/packages/awssdk.keymanagementservice/3.7.302.19/awssdk.keymanagementservice.3.7.302.19.nupkg.sha512",
+    "/Users/warley/.nuget/packages/microsoft.aspnetcore.openapi/7.0.19/microsoft.aspnetcore.openapi.7.0.19.nupkg.sha512",
+    "/Users/warley/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/warley/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.1/microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "/Users/warley/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/warley/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/warley/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/warley/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/warley/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "/Users/warley/.nuget/packages/microsoft.netcore.app.ref/7.0.15/microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/warley/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.15/microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/warley/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.15/microsoft.netcore.app.host.osx-arm64.7.0.15.nupkg.sha512"
   ],
   "logs": []
 }

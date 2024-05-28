@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.ResponseCompression;
 using Microsoft.OpenApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);
-builder.Services.AddAwsKmsEncryptionService("", "");
+builder.Services.AddSymmetricEncryptionService().AddAsymmetricEncryptionService();
 builder.Services.AddRouting(options => options.LowercaseUrls = true);
 builder.Services.AddControllers();
 builder.Services.AddMvc()
@@ -28,6 +28,10 @@ app.UseResponseCompression();
 app.UseSwagger();
 app.UseSwaggerUI(c => {
     c.SwaggerEndpoint("/swagger/v1/swagger.json", "v1");
+});
+app.UseEndpoints(endpoints => 
+{
+    endpoints.MapControllers();
 });
 
 app.Run();

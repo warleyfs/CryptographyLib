@@ -1,27 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Source\\Estudos\\Pocs\\CryptographyLib\\CryptographyLibTest\\CryptographyLibTest.csproj": {}
+    "/Users/warley/Git/Pocs/CryptographyLib/CryptographyLibTest/CryptographyLibTest.csproj": {}
   },
   "projects": {
-    "D:\\Source\\Estudos\\Pocs\\CryptographyLib\\CryptographyLibTest\\CryptographyLibTest.csproj": {
+    "/Users/warley/Git/Pocs/CryptographyLib/CryptographyLibTest/CryptographyLibTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Source\\Estudos\\Pocs\\CryptographyLib\\CryptographyLibTest\\CryptographyLibTest.csproj",
+        "projectUniqueName": "/Users/warley/Git/Pocs/CryptographyLib/CryptographyLibTest/CryptographyLibTest.csproj",
         "projectName": "CryptographyLibTest",
-        "projectPath": "D:\\Source\\Estudos\\Pocs\\CryptographyLib\\CryptographyLibTest\\CryptographyLibTest.csproj",
-        "packagesPath": "D:\\Users\\warle\\.nuget\\packages\\",
-        "outputPath": "D:\\Source\\Estudos\\Pocs\\CryptographyLib\\CryptographyLibTest\\obj\\",
+        "projectPath": "/Users/warley/Git/Pocs/CryptographyLib/CryptographyLibTest/CryptographyLibTest.csproj",
+        "packagesPath": "/Users/warley/.nuget/packages/",
+        "outputPath": "/Users/warley/Git/Pocs/CryptographyLib/CryptographyLibTest/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "D:\\Users\\warle\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/warley/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,11 +33,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -77,12 +71,22 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
         }
       }
     }

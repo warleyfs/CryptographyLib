@@ -1,5 +1,5 @@
 is_global = true
 build_property.RootNamespace = CryptographyLib
-build_property.ProjectDir = D:\Source\Estudos\Pocs\CryptographyLib\CryptographyLib\
+build_property.ProjectDir = /Users/warley/Git/Pocs/CryptographyLib/CryptographyLib/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

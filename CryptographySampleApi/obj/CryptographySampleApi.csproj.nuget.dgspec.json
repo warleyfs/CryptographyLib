@@ -1,27 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Source\\Estudos\\Pocs\\CryptographyLib\\CryptographySampleApi\\CryptographySampleApi.csproj": {}
+    "/Users/warley/Git/Pocs/CryptographyLib/CryptographySampleApi/CryptographySampleApi.csproj": {}
   },
   "projects": {
-    "D:\\Source\\Estudos\\Pocs\\CryptographyLib\\CryptographyLib\\CryptographyLib.csproj": {
+    "/Users/warley/Git/Pocs/CryptographyLib/CryptographyLib/CryptographyLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Source\\Estudos\\Pocs\\CryptographyLib\\CryptographyLib\\CryptographyLib.csproj",
+        "projectUniqueName": "/Users/warley/Git/Pocs/CryptographyLib/CryptographyLib/CryptographyLib.csproj",
         "projectName": "CryptographyLib",
-        "projectPath": "D:\\Source\\Estudos\\Pocs\\CryptographyLib\\CryptographyLib\\CryptographyLib.csproj",
-        "packagesPath": "D:\\Users\\warle\\.nuget\\packages\\",
-        "outputPath": "D:\\Source\\Estudos\\Pocs\\CryptographyLib\\CryptographyLib\\obj\\",
+        "projectPath": "/Users/warley/Git/Pocs/CryptographyLib/CryptographyLib/CryptographyLib.csproj",
+        "packagesPath": "/Users/warley/.nuget/packages/",
+        "outputPath": "/Users/warley/Git/Pocs/CryptographyLib/CryptographyLib/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "D:\\Users\\warle\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/warley/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,11 +33,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -71,36 +65,35 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Source\\Estudos\\Pocs\\CryptographyLib\\CryptographySampleApi\\CryptographySampleApi.csproj": {
+    "/Users/warley/Git/Pocs/CryptographyLib/CryptographySampleApi/CryptographySampleApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Source\\Estudos\\Pocs\\CryptographyLib\\CryptographySampleApi\\CryptographySampleApi.csproj",
+        "projectUniqueName": "/Users/warley/Git/Pocs/CryptographyLib/CryptographySampleApi/CryptographySampleApi.csproj",
         "projectName": "CryptographySampleApi",
-        "projectPath": "D:\\Source\\Estudos\\Pocs\\CryptographyLib\\CryptographySampleApi\\CryptographySampleApi.csproj",
-        "packagesPath": "D:\\Users\\warle\\.nuget\\packages\\",
-        "outputPath": "D:\\Source\\Estudos\\Pocs\\CryptographyLib\\CryptographySampleApi\\obj\\",
+        "projectPath": "/Users/warley/Git/Pocs/CryptographyLib/CryptographySampleApi/CryptographySampleApi.csproj",
+        "packagesPath": "/Users/warley/.nuget/packages/",
+        "outputPath": "/Users/warley/Git/Pocs/CryptographyLib/CryptographySampleApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "D:\\Users\\warle\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/warley/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Source\\Estudos\\Pocs\\CryptographyLib\\CryptographyLib\\CryptographyLib.csproj": {
-                "projectPath": "D:\\Source\\Estudos\\Pocs\\CryptographyLib\\CryptographyLib\\CryptographyLib.csproj"
+              "/Users/warley/Git/Pocs/CryptographyLib/CryptographyLib/CryptographyLib.csproj": {
+                "projectPath": "/Users/warley/Git/Pocs/CryptographyLib/CryptographyLib/CryptographyLib.csproj"
               }
             }
           }
@@ -109,11 +102,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -140,6 +128,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -148,7 +150,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
         }
       }
     }

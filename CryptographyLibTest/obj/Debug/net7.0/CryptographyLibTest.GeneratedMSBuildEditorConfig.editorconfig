@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CryptographyLibTest
-build_property.ProjectDir = D:\Source\Estudos\Pocs\CryptographyLib\CryptographyLibTest\
+build_property.ProjectDir = /Users/warley/Git/Pocs/CryptographyLib/CryptographyLibTest/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

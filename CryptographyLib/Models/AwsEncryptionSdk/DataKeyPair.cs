@@ -1,6 +1,6 @@
 ﻿using System.IO;
 
-namespace CryptographyLib.Models
+namespace CryptographyLib.Models.AwsEncryptionSdk
 {
     public class DataKeyPair
     {
